@@ -1,7 +1,7 @@
 <!--título-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World</h1></summary>
+    <summary><h1 style="display: inline-block">Eaí Dev's</h1></summary>
 </div>
 
 <!-- Presentation -->
@@ -19,7 +19,7 @@
 
   - 💬 Tenho 16 anos e atualmente moro no Brasil. Entrei no mundo da computação recentemente por paixão, possuo um certificado de noção básica sobre IA e programação em blocos. Estou cada vez mais sobre esse mundo incrível que é o da programação.
 
-  - ⚡ Sempre gostei de programção desde criança, adoro solucionar problemas díficeis, não desisto fácil e sempre tenho foco naquilo que eu faço. \o/
+  - ⚡ Sempre gostei de programção desde criança, adoro solucionar problemas díficeis, não desisto fácil e sempre tenho foco naquilo que eu faço.
 </details>
 
 <!-- Links -->
