@@ -8,9 +8,9 @@
 <p>
   Olá 👋, Eu sou o Felipe Silva! Um rapaz brasileiro apaixonado por Computação.
 
-  - 🌱 Atualmente estou cursando o curso de Técnico em Informática do CTI
+  - 🌱 Atualmente estou cursando o Técnico em Informática no CTI
 
-  - 🔭 Estou em busca de ser um bom programador
+  - 🔭 Estou em busca de ser um bom programador.
 </p>
 
 <!-- Dropdown -->
