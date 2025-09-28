@@ -14,9 +14,9 @@
 <details>
   <summary>:man_technologist: Mais sobre mim </summary>
 
-  - :speech_balloon: Tenho 16 anos e atualmente moro no Brasil. Entrei no mundo da computação recentemente por paixão, possuo um certificado de noção básica sobre IA e programação em blocos. Estou cada vez mais aprendendo sobre esse mundo incrível que é o da programação.
+  - :speech_balloon: Sou um brasileiro jovem. Entrei no mundo da computação recentemente por paixão. Estou cada vez mais aprendendo sobre esse mundo incrível que é o da programação.
 
-  - :zap: Sempre gostei de programção desde criança, adoro solucionar problemas díficeis, não desisto fácil e sempre tenho foco naquilo que eu faço.
+  - :zap: Sempre gostei de programação desde criança, adoro solucionar problemas difíceis, não desisto fácil e sempre tenho foco naquilo que eu faço.
 </details>
 
 <!-- Links -->
