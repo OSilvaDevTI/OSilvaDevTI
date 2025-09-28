@@ -32,12 +32,4 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=OSilvaDevTI&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=OSilvaDevTI&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<div align="center">
-  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OSilvaDevTI/OSilvaDevTI/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OSilvaDevTI/OSilvaDevTI/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/OSilvaDevTI/OSilvaDevTI/output/github-contribution-grid-snake.svg">
-</picture>
-  
-</div>
+<img src="https://raw.githubusercontent.com/OSilvaDevTI/OSilvaDevTI/output/snake.svg" alt="Snake animation" />
