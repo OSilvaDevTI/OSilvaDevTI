@@ -5,7 +5,7 @@
 <p>
   Olá :wave:, Eu sou o Felipe Silva! Um rapaz brasileiro apaixonado por Computação.
 
-  - :seedling: Atualmente estou cursando o Técnico em Informática no CTI
+  - :seedling: Atualmente estou cursando o Técnico em Informática no Colégio Técnico Industrial 
 
   - :telescope: Estou em busca de ser um bom programador.
 </p>
