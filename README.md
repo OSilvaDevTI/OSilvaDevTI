@@ -1,33 +1,36 @@
-<!--título-->
-# :dizzy:Sobre Mim:
+# 👋 Olá! Eu sou Felipe Silva
 
-<!-- Presentation -->
-<p>
-  Olá :wave:, Eu sou o Felipe Silva! Um rapaz brasileiro apaixonado por Computação.
+Olá :wave:, Eu sou o Felipe Silva! Um rapaz brasileiro apaixonado por Computação.
 
-  - :seedling: Atualmente estou cursando o Técnico em Informática no Colégio Técnico Industrial 
+* 🌱 Atualmente estou cursando o **Técnico em Informática** no Colégio Técnico Industrial.
+* 🔭 Busco me tornar um **desenvolvedor de software** sólido e eficiente.
 
-  - :telescope: Busco de ser um bom desenvolvedor.
-</p>
-
-<!-- Dropdown -->
 <details>
-  <summary>:man_technologist: Mais sobre mim </summary>
+  <summary>✨ **Mais sobre mim**</summary>
 
-  - :speech_balloon: Sou um jovem brasileiro. Entrei no mundo da computação recentemente por paixão. Estou cada vez mais aprendendo sobre esse mundo incrível e quero continuar assim, cada dia evoluindo mais e mais.
-
-  - :zap: Sempre gostei de programação desde criança, adoro solucionar problemas difíceis, não desisto fácil e sempre tenho foco naquilo que eu faço.
+  * 💬 Sou um jovem brasileiro que entrou no mundo da computação recentemente por paixão. Estou cada vez mais aprendendo sobre esse mundo incrível e quero continuar evoluindo a cada dia.
+  * 💡 Sempre gostei de programação, adoro solucionar problemas difíceis e não desisto fácil. Sempre mantenho o foco no que estou fazendo.
 </details>
 
-<!-- Links -->
-## :globe_with_meridians: Redes Sociais:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/felipe-silva-1932aa350/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@felifeofcdev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:felipesilvadevti@gmail.com) 
+---
 
-# :computer: Habilidades Técnicas:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+## 🌐 Conecte-se Comigo
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ofelipesilvah/) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@felifeofcdev) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:felipesilvadevti@gmail.com) 
 
-# :bar_chart: GitHub Stats:
+---
+
+# 💻 Habilidades Técnicas
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+---
+
+# 📊 Estatísticas do GitHub
+
 ![](https://github-readme-stats.vercel.app/api?username=OSilvaDevTI&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=OSilvaDevTI&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=OSilvaDevTI&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
