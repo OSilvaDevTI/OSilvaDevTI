@@ -7,14 +7,14 @@
 
   - :seedling: Atualmente estou cursando o Técnico em Informática no Colégio Técnico Industrial 
 
-  - :telescope: Estou em busca de ser um bom programador.
+  - :telescope: Busco de ser um bom desenvolvedor.
 </p>
 
 <!-- Dropdown -->
 <details>
   <summary>:man_technologist: Mais sobre mim </summary>
 
-  - :speech_balloon: Sou um brasileiro jovem. Entrei no mundo da computação recentemente por paixão. Estou cada vez mais aprendendo sobre esse mundo incrível que é o da programação.
+  - :speech_balloon: Sou um jovem brasileiro. Entrei no mundo da computação recentemente por paixão. Estou cada vez mais aprendendo sobre esse mundo incrível e quero continuar assim, cada dia evoluindo mais e mais.
 
   - :zap: Sempre gostei de programação desde criança, adoro solucionar problemas difíceis, não desisto fácil e sempre tenho foco naquilo que eu faço.
 </details>
