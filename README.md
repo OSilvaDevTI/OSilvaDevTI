@@ -6,7 +6,7 @@ Olá :wave:, Eu sou o Felipe Silva! Um rapaz brasileiro apaixonado por Computaç
 * 🔭 Busco me tornar um **desenvolvedor de software** sólido e eficiente.
 
 <details>
-  <summary>✨ **Mais sobre mim**</summary>
+  <summary>✨ <strong>Mais sobre mim</strong> </summary>
 
   * 💬 Sou um jovem brasileiro que entrou no mundo da computação recentemente por paixão. Estou cada vez mais aprendendo sobre esse mundo incrível e quero continuar evoluindo a cada dia.
   * 💡 Sempre gostei de programação, adoro solucionar problemas difíceis e não desisto fácil. Sempre mantenho o foco no que estou fazendo.
