@@ -2,7 +2,7 @@
 
 Olá :wave:, Eu sou o Felipe Silva! Um rapaz brasileiro apaixonado por Computação.
 
-* 🌱 Atualmente estou cursando o **Técnico em Informática** no Colégio Técnico Industrial.
+* 🌱 Atualmente estou cursando o **Técnico em Informática** no Colégio Técnico Industrial “Prof. Isaac Portal Roldán”.
 * 🔭 Busco me tornar um **desenvolvedor de software** sólido e eficiente.
 
 <details>
