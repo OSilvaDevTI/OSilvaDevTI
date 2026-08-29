@@ -1,12 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=48B88B&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+World!+My+name+is+Felipe+Silva;I+from+Bauru+-+SP;Be+Welcome!+:%29)](https://git.io/typing-svg) 
- 
-### Main skills:
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=48B88B&size=35&center=true&vCenter=true&width=1000&lines=Hello,+World!+My+name+is+Felipe+Silva;I+from+Bauru+-+SP;Be+Welcome!+:%29)](https://git.io/typing-svg) 
  
 ### Tools:
 
@@ -26,5 +20,5 @@ Studying in this moment:
 <br></div> -->
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=48B88B&height=120&section=footer"/>
 
