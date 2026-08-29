@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=48B88B&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=33D4D4&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=48B88B&size=35&center=true&vCenter=true&width=1000&lines=Hello,+World!+My+name+is+Felipe+Silva;I+from+Bauru+-+SP;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=33D4D4&size=35&center=true&vCenter=true&width=1000&lines=Hello,+World!+My+name+is+Felipe+Silva;I+from+Bauru+-+SP;Be+Welcome!+:%29)](https://git.io/typing-svg) 
  
 ### Tools:
 
@@ -20,5 +20,5 @@ Studying in this moment:
 <br></div> -->
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=48B88B&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=33D4D4&height=120&section=footer"/>
 
