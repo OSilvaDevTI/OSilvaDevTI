@@ -16,11 +16,15 @@ Studying in this moment:
 
 <div align="center">
 
-### Stats:
-
-![OSilvaDevTI's Stats](https://github-readme-stats.vercel.app/api?username=OSilvaDevTI&theme=dracula&show_icons=true&hide_border=true&count_private=true)
-![OSilvaDevTI's Streak](https://github-readme-streak-stats.herokuapp.com/?user=OSilvaDevTI&theme=dracula&hide_border=true)
-![OSilvaDevTI's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OSilvaDevTI&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api?username=OSilvaDevTI&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="OSilvaDevTI's Stats" />
+  
+  <br/><br/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OSilvaDevTI&theme=dracula&hide_border=true" alt="OSilvaDevTI's Streak" />
+  
+  <br/><br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OSilvaDevTI&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="OSilvaDevTI's Top Languages" />
 
 </div>
 
