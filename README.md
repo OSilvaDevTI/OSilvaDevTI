@@ -8,7 +8,7 @@
 
 Other Knowledge:
 
-<img src="images/html.svg" width="40" height="40" title="HTML" alt="HTML"/>   <img src="images/css.svg" width="40" height="40" title="CSS" alt="CSS"/>   <img src="images/python.svg" width="40" height="40" title="Python" alt="Python"/>  
+[![My Skills](https://skillicons.dev/icons?i=html,css,python)](https://skillicons.dev)
 
 Studying in this moment:
 
