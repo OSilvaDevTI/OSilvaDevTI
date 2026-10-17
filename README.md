@@ -4,7 +4,7 @@
  
 ### Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,windows)](https://skillicons.dev)
 
 Other Knowledge:
 
