@@ -14,13 +14,15 @@ Studying in this moment:
 
 [![My Skills](https://skillicons.dev/icons?i=php,java,mysql)](https://skillicons.dev)
 
-<!-- <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MatheusAlvarez}/count.svg" /></p> 
-<br></div> -->
+<div align="center">
+
+### Stats:
+
 ![OSilvaDevTI's Stats](https://github-readme-stats.vercel.app/api?username=OSilvaDevTI&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 ![OSilvaDevTI's Streak](https://github-readme-streak-stats.herokuapp.com/?user=OSilvaDevTI&theme=dracula&hide_border=true)
-![OSilvaDevTI's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/ username=OSilvaDevTI&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+![OSilvaDevTI's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OSilvaDevTI&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E50C0B&height=120&section=footer"/>
 
