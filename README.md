@@ -15,7 +15,7 @@ Studying in this moment:
 [![My Skills](https://skillicons.dev/icons?i=php,java,mysql)](https://skillicons.dev)
 
 
-## Stats:
+### Stats:
 
   <img src="https://github-readme-stats.vercel.app/api?username=OSilvaDevTI&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="OSilvaDevTI's Stats" />
   <br/>
