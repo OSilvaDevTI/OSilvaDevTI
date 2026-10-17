@@ -4,7 +4,7 @@
  
 ### Tools:
 
-<img src="images/vscode.svg" width="40" height="40" title="VS Code" alt="VS Code"/>   <img src="images/git.svg" width="40" height="40" title="Git" alt="Git"/>   <img src="images/github.svg" width="40" height="40" title="GitHub" alt="GitHub"/>   <img src="images/windows-10-icon.svg" width="40" height="40" title="Windows" alt="Windows"/>  
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,windows)](https://skillicons.dev)
 
 Other Knowledge:
 
@@ -12,7 +12,7 @@ Other Knowledge:
 
 Studying in this moment:
 
-<img src="images/php.svg" width="40" height="40" title="PHP" alt="PHP"/>   <img src="images/java.svg" width="40" height="40" title="Java" alt="Java"/>   <img src="images/mysql-official.svg" width="40" height="40" title="MySQL" alt="MySQL"/>  
+[![My Skills](https://skillicons.dev/icons?i=php,java,mysql)](https://skillicons.dev)
 
 <!-- <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
