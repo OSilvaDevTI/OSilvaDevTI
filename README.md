@@ -20,5 +20,5 @@ Studying in this moment:
 <br></div> -->
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=33D4D4&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=400101&height=120&section=footer"/>
 
