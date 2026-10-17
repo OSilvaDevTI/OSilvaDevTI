@@ -14,9 +14,8 @@ Studying in this moment:
 
 [![My Skills](https://skillicons.dev/icons?i=php,java,mysql)](https://skillicons.dev)
 
-<div align="center">
 
-Stats:
+## Stats:
 
   <img src="https://github-readme-stats.vercel.app/api?username=OSilvaDevTI&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="OSilvaDevTI's Stats" />
   <br/>
@@ -24,7 +23,6 @@ Stats:
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OSilvaDevTI&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="OSilvaDevTI's Top Languages" />
 
-</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E50C0B&height=120&section=footer"/>
 
