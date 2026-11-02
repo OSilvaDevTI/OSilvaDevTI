@@ -27,5 +27,9 @@ Other Knowledge:
 ## Studying in this moment:
 
 [![My Skills](https://skillicons.dev/icons?i=php,java,mysql)](https://skillicons.dev)
-  
+
+## Stats:
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=OSilvaDevTI&theme=shadow-red)](https://git.io/streak-stats)
+
 </div>
